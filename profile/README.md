@@ -1,3 +1,9 @@
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=NoVPN-Official&color=lightgrey)
+
+</div>
+
 # NoVPN - The Ultimate Anti-VPN Solution
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Version](https://img.shields.io/badge/Version-0.0.1-blue.svg)](https://github.com/NoVPN-Official/NoVPN/releases) [![Status](https://img.shields.io/badge/Status-In%20Development-green.svg)](https://github.com/NoVPN-Official/NoVPN)
